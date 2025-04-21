@@ -4,7 +4,6 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from sklearn.cluster import KMeans
 from sklearn.decomposition import PCA
-from mpl_toolkits.mplot3d import Axes3D
 
 # 📂 CONFIG
 DB_PATH = "../database/cyber_attacks.db"
